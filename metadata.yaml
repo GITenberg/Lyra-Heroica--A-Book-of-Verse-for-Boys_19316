@@ -1,0 +1,33 @@
+_repo: Lyra-Heroica--A-Book-of-Verse-for-Boys_19316
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Henley, William Ernest
+    alias: Henley, W. E. (William Ernest)
+    birthdate: 1849
+    deathdate: 1903
+    gutenberg_agent_id: '369'
+    url: http://www.gutenberg.org/2009/agents/369
+    wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19316'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Children''s poetry, American'
+- !lcsh 'English poetry'
+- !lcsh 'Children''s poetry, English'
+- !lcc 'PZ'
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: 'Lyra Heroica: A Book of Verse for Boys'
+url: http://www.gutenberg.org/ebooks/19316
